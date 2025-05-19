@@ -39,5 +39,6 @@ public class Main {
                 break;
             }
         }
+        System.out.println("Программа завершена");
     }
 }
